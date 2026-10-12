@@ -1,0 +1,16 @@
+# The House of Basu-Howard
+
+> The public web presence of the House of Basu-Howard. The main site is currently a holding page while related historical, scholarly, and family projects are published on their own established domains.
+
+Website: https://basuhoward.org/
+
+## Related sites
+
+- [James Howard](https://jameshoward.us/): personal, scholarly, teaching, writing, and project hub.
+- [The Manor of the Dungeon in Kent](https://dungeonmanor.uk/): documentary public history of a Canterbury manor.
+- [The Count of Krigsvold](https://krigsvold.org/): Antarctic education, research support, and evidence-led advocacy.
+- [The Heraldry Project](https://heraldryproject.org/): independent, freely accessible school of heraldry.
+
+## Status
+
+The House site itself is not yet a substantive reference work. For factual information about the projects above, use their dedicated sites rather than inferring details from this holding page.
